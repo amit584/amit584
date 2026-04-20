@@ -1,6 +1,14 @@
-# 💫 About Me:
-I'm a Software Engineer with a strong background in Java and a growing focus on full-stack development. I enjoy building intuitive user experiences while keeping systems scalable and maintainable. I'm especially interested in combining backend logic with modern frontend technologies and exploring AI-driven solutions.
+### Hi, I'm Amit 👋
 
+Passionate software engineer with a strong foundation in Java and a growing focus on full-stack development.
+
+I enjoy building things that work well *and* feel good — bridging backend logic with interfaces that people actually want to use. Lately I've been going deeper into UI/UX and finding that the design side of engineering is just as interesting as the technical one.
+
+I thrive in collaborative environments, care a lot about the quality of what I ship, and I'm always looking to grow.
+
+**Currently exploring:**
+→ UI/UX design principles & frontend craft
+→ AI-driven tools and workflows
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amitshavit) 
@@ -12,5 +20,3 @@ I'm a Software Engineer with a strong background in Java and a growing focus on 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=amit584&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
